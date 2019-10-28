@@ -1,0 +1,6 @@
+codos/uploadManager/CreateRandomFile.class
+codos/uploadManager/BlobUploadWorker.class
+codos/uploadManager/FileSplitter.class
+codos/uploadManager/Main.class
+codos/uploadManager/FileUploadWorker.class
+codos/uploadManager/FilesDeleter.class

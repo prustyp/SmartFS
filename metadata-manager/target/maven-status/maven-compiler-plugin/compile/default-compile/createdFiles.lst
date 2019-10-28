@@ -1,0 +1,9 @@
+codos/metadataManager/FileStatusDeleter.class
+codos/metadataManager/ListFilesStatusInCloud.class
+codos/metadataManager/MetadataManager.class
+codos/metadataManager/FileStatusWriter.class
+codos/metadataManager/MetadataUploader.class
+codos/metadataManager/ChunksSqliteManager.class
+codos/metadataManager/Main.class
+codos/metadataManager/MetadataConstants.class
+codos/metadataManager/FileStatusReader.class

@@ -1,0 +1,9 @@
+/Users/pprusty05/google_drive/OS_F2018/osf18repo/metadata-manager/src/main/java/codos/metadataManager/Main.java
+/Users/pprusty05/google_drive/OS_F2018/osf18repo/metadata-manager/src/main/java/codos/metadataManager/ChunksSqliteManager.java
+/Users/pprusty05/google_drive/OS_F2018/osf18repo/metadata-manager/src/main/java/codos/metadataManager/FileStatusReader.java
+/Users/pprusty05/google_drive/OS_F2018/osf18repo/metadata-manager/src/main/java/codos/metadataManager/ListFilesStatusInCloud.java
+/Users/pprusty05/google_drive/OS_F2018/osf18repo/metadata-manager/src/main/java/codos/metadataManager/FileStatusWriter.java
+/Users/pprusty05/google_drive/OS_F2018/osf18repo/metadata-manager/src/main/java/codos/metadataManager/MetadataUploader.java
+/Users/pprusty05/google_drive/OS_F2018/osf18repo/metadata-manager/src/main/java/codos/metadataManager/FileStatusDeleter.java
+/Users/pprusty05/google_drive/OS_F2018/osf18repo/metadata-manager/src/main/java/codos/metadataManager/MetadataConstants.java
+/Users/pprusty05/google_drive/OS_F2018/osf18repo/metadata-manager/src/main/java/codos/metadataManager/MetadataManager.java
